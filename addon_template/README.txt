@@ -1,13 +1,49 @@
-You can find detailed instructions on how to make a BattleBeats addon in this Steam discussion:
+=========================================
+ BattleBeats – Pack Creation Guide
+=========================================
+
+ -- FULL GUIDE --
+You can find detailed instructions on how to make a BattleBeats addon here:
 https://steamcommunity.com/workshop/filedetails/discussion/3473911205/594021909912390256/
 
-If you've downloaded this, it probably means you've already read it - and you're halfway there.
-Inside some folders, you’ll find .txt files with additional instructions.
+If you've downloaded this, you’ve probably already read the guide – you’re halfway there!
+Some folders contain additional .txt files with specific instructions
 
-If you're ready and want to upload your addon, first delete all the .txt files and the thumbnail template.
-Before uploading, I recommend testing your pack locally to make sure it works. 
-To do that, place the main folder—named addon_template unless you've renamed it (which is allowed) inside your addons/ folder in the GMod directory 
-(.../GarrysMod/garrysmod/addons/...)
+-----------------------------------------
+ PREPARING YOUR ADDON
+-----------------------------------------
+1. When ready to upload:
+   - Delete all .txt files from this template
+   - Remove the "thumbnail template.png" and "btb logo.jpg" files -- You can use them to create thumbnail for your pack
 
-Then, launch the game with BattleBeats installed, enable Debug Mode in the settings, and restart the map (disconnect and start a new game).
-Your pack should now appear in the pack selector UI. Use the track previewer to test if all your sounds play correctly.
+2. (Optional) Rename the main folder from "addon_template" to your desired addon name
+   - This is allowed and won’t break anything
+
+-----------------------------------------
+ TESTING LOCALLY BEFORE UPLOAD
+-----------------------------------------
+1. Place the main folder inside your GMod addons directory:
+   .../GarrysMod/garrysmod/addons/...
+
+2. Launch GMod with BattleBeats installed
+
+3. Enable Debug Mode:
+   Q Menu (SpawnMenu) → Utilities → BattleBeats → Advanced → Enable "Debug"
+
+4. Reload packs by:
+   - Clicking the "Reload Packs" button under Debug Mode, OR
+   - Restarting the map (disconnect → start new game)
+
+5. Your pack should now appear in the Pack Selector UI
+   - Use the Track Previewer to check if all sounds play correctly
+
+-----------------------------------------
+ USING LOCALLY WITHOUT UPLOADING
+-----------------------------------------
+If you want to use your pack without uploading to the Workshop:
+1. Enable the "Load Local Packs" option in BattleBeats settings
+2. Reload packs or restart the map (same as Debug Mode testing)
+
+-----------------------------------------
+ Thank you for choosing BattleBeats!
+-----------------------------------------
