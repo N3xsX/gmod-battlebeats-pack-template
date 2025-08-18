@@ -15,7 +15,6 @@ Some folders contain additional .txt files with specific instructions
 
 1. When ready to upload:
    - Delete all .txt files from this template
-   - Remove the "thumbnail template.png" and "btb logo.jpg" files -- You can use them to create thumbnail for your pack
 
 2. (Optional) Rename the main folder from "addon_template" to your desired addon name
    - This is allowed and won’t break anything
@@ -57,4 +56,5 @@ https://github.com/WilliamVenner/gmpublisher?tab=readme-ov-file
 
 -----------------------------------------
  Thank you for choosing BattleBeats!
+
 -----------------------------------------
