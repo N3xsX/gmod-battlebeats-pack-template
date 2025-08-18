@@ -56,5 +56,5 @@ https://github.com/WilliamVenner/gmpublisher?tab=readme-ov-file
 
 -----------------------------------------
  Thank you for choosing BattleBeats!
-
 -----------------------------------------
+
