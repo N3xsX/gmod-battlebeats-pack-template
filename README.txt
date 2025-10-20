@@ -36,7 +36,7 @@ Some folders contain additional .txt files with specific instructions
    - Restarting the map (disconnect → start new game)
 
 5. Your pack should now appear in the Pack Selector UI
-   - Use the Track Previewer to check if all sounds play correctly
+   - Wait until pack verification is complete. If something is wrong the pack panel will turn red and an exclamation mark will show up
 
 -----------------------------------------
  USING LOCALLY WITHOUT UPLOADING
@@ -57,4 +57,5 @@ https://github.com/WilliamVenner/gmpublisher?tab=readme-ov-file
 -----------------------------------------
  Thank you for choosing BattleBeats!
 -----------------------------------------
+
 
