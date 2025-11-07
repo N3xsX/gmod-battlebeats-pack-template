@@ -14,8 +14,8 @@ Some folders contain additional .txt files with specific instructions
 -----------------------------------------
 
 1. First, choose one of the two folders:
-   - 'addon_template' — for a basic music pack
-   - 'addon_template_with_subtitles' — if you want to add subtitles to your pack  
+   - 'addon_template' - for a basic music pack
+   - 'addon_template_with_subtitles' - if you want to add subtitles to your pack  
      You can read this Steam discussion on how to create subtitles for your pack:  
      https://steamcommunity.com/workshop/filedetails/discussion/3473911205/840610807207166438/
 
@@ -63,6 +63,7 @@ https://github.com/WilliamVenner/gmpublisher?tab=readme-ov-file
 -----------------------------------------
  Thank you for choosing BattleBeats!
 -----------------------------------------
+
 
 
 
