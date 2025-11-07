@@ -13,17 +13,23 @@ Some folders contain additional .txt files with specific instructions
  PREPARING YOUR ADDON
 -----------------------------------------
 
-1. When ready to upload:
-   - Delete all .txt files from this template
+1. First, choose one of the two folders:
+   - 'addon_template' — for a basic music pack
+   - 'addon_template_with_subtitles' — if you want to add subtitles to your pack  
+     You can read this Steam discussion on how to create subtitles for your pack:  
+     https://steamcommunity.com/workshop/filedetails/discussion/3473911205/840610807207166438/
 
-2. (Optional) Rename the main folder from "addon_template" to your desired addon name
+2. When ready to upload:
+   - Delete all .txt files from this template (addons with .txt files cannot be uploaded to the workshop)
+
+3. (Optional) Rename the main folder from "addon_template" to your desired addon name
    - This is allowed and won’t break anything
 
 -----------------------------------------
  TESTING LOCALLY BEFORE UPLOAD
 -----------------------------------------
 
-1. Place the main folder inside your GMod addons directory:
+1. Place the main addon folder inside your GMod addons directory:
    .../GarrysMod/garrysmod/addons/...
 
 2. Launch GMod with BattleBeats installed
@@ -57,5 +63,6 @@ https://github.com/WilliamVenner/gmpublisher?tab=readme-ov-file
 -----------------------------------------
  Thank you for choosing BattleBeats!
 -----------------------------------------
+
 
 
