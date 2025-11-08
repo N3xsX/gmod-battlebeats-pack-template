@@ -60,9 +60,12 @@ I won’t cover publishing in this guide
 You can use GMPublisher and its guide here:
 https://github.com/WilliamVenner/gmpublisher?tab=readme-ov-file
 
+If you upload your pack to the Workshop, you can use the in-game option to copy a Steam-ready, formatted track list by right-clicking on a pack in the pack selector
+
 -----------------------------------------
  Thank you for choosing BattleBeats!
 -----------------------------------------
+
 
 
 
