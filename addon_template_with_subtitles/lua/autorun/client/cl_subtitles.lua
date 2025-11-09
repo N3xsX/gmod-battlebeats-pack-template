@@ -1,3 +1,4 @@
+BATTLEBEATS = BATTLEBEATS or {}
 BATTLEBEATS.subtitles = BATTLEBEATS.subtitles or {}
 
 BATTLEBEATS.subtitles["song name"] = { -- Change this to your song name! (lowercase only!)
@@ -33,6 +34,7 @@ Condemned
 Falling weak on my knees
     ]]
 }
+
 
 
 
