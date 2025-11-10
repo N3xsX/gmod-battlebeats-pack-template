@@ -35,7 +35,7 @@ Some folders contain additional .txt files with specific instructions
 2. Launch GMod with BattleBeats installed
 
 3. Enable Debug Mode:
-   Q Menu (SpawnMenu) → Utilities → BattleBeats → Advanced → Enable "Debug"
+   Options panel > Misc. Tab
 
 4. Reload packs by:
    - Clicking the "Reload Packs" button under Debug Mode, OR
@@ -65,6 +65,7 @@ If you upload your pack to the Workshop, you can use the in-game option to copy 
 -----------------------------------------
  Thank you for choosing BattleBeats!
 -----------------------------------------
+
 
 
 
